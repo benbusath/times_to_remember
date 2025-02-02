@@ -1,5 +1,5 @@
 Goal:
-trivia_project/
+```trivia_project/
 ├── trivia/                      # Main Django project folder
 │   ├── settings/
 │   │   ├── __init__.py
@@ -37,4 +37,4 @@ trivia_project/
 │   └── base.html
 │
 ├── requirements.txt
-└── manage.py
+└── manage.py```
