@@ -29,7 +29,7 @@ Goal:
 │   └── game/
 │       └── css/
 │       └── js/
-│           └── slider.js       # Your slider component
+│           └── slider.html       # Your slider component
 │           └── game.js         # WebSocket client logic
 │       └── images/
 │
